@@ -1,0 +1,44 @@
+.filter_header {
+
+  padding: 0.5em 0.5em 0.5em 2.2em;
+  font-size: 1.1em;
+  font-weight: bold;
+
+}
+
+.enhanced_filter {
+  padding: 0.2em; 
+}
+
+.filter_content {
+  padding: 0.5em 0.5em 0.5em 0.7em;
+}
+
+
+.filter_element {
+
+}
+
+.filter_context_menu {
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.filter_element_label {
+
+  border: none !important;
+  background: none !important;
+}
+
+.filter_remove_element {
+
+   display: inline-block;
+
+}
+
+.filter_separator_element {
+
+  margin-left:5px;
+  margin-right: 5px;  
+
+}
+
